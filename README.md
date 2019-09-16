@@ -9,7 +9,7 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Fall 2019
 
-+ Project title: Finding 'Love'
++ Project title: ###Finding 'Love'
 + This project is conducted by Richard Lee
 
 + Project summary: [a short summary] This project explores the theme of 'love' in song lyrics. What genre music should I listen to if I want to listen to a romantic song? How has the concept of 'love' and romance, in terms of song lyrics, shaped over the years? What is the most romantic song? These are some of the questions I explore in this project.
