@@ -12,7 +12,7 @@ Term: Fall 2019
 + Projec title: Lorem ipsum dolor sit amet
 + This project is conducted by Richard Lee
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: [a short summary] This project explores the theme of 'love' in song lyrics. What genre music should I listen to if I want to listen to a romantic song? How has the concept of 'love' and romance shaped over the years? What is the most romantic song? These are some of the questions I explore in this project.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
