@@ -3,3 +3,5 @@
 ### Doc folder
 
 The doc directory contains the report or presentation files. It can have subfolders.  
+
+I used a Python Notebook so the main file to view the notebook is Song Lyrics.ipynb
